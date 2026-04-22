@@ -1,14 +1,14 @@
 Alexander's Macro Research
-This repository contains my equity research reports on global macro and commodities.
+This repository contains my research reports on global macro and commodities.
 
-Latest Report: Gold's Safe Haven Narrative is Broken (April 2026)
-Asset: Gold / FX
+## About Me
 
-Framework: Top-down macro + OLS regression (regime analysis)
+### Latest Report — April 2026
+**Gold's Safe Haven Narrative is Broken: Interest Rates Now Dominate**
 
-Key finding: Interest rate expectations have replaced geopolitical risk as the dominant driver.
+**Asset:** Gold / FX  
+**Framework:** Top-down macro + OLS regression (regime analysis)  
+**Key finding:** Interest rate expectations have replaced geopolitical risk as the dominant driver of gold prices.  
+**Trade idea:** Short gold on rallies toward $4,950–$5,000 resistance.
 
-Trade idea: Short gold on rallies toward $4950–$5000 resistance.
-
-Click here [S&T.pdf](https://github.com/user-attachments/files/26937328/S.T.pdf)
-to view the full report.
+**Full report:** [Download PDF]
