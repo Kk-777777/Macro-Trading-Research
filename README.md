@@ -16,7 +16,8 @@ Short GC futures / Buy GLD put on rallies toward $4,950–$5,000 resistance.
 Entry confirmed by rising 10Y yield or hawkish dot plot shift.
 
 ## Full Report
-[Macro.pdf](https://github.com/user-attachments/files/26994850/Macro.pdf)
+[Gold.pdf](https://github.com/user-attachments/files/27094840/Gold.pdf)
+
 
 ---
 **Alexander Xuyuan Cao**  
