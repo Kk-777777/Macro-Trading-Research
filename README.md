@@ -9,6 +9,9 @@ Japan's near-total dependence on Middle East oil (~97% imported, ~95% via Hormuz
 ## Trade Recommendation
 Short USD/JPY via 3M/6M forwards or risk reversal (short OTM call + long OTM put) on rallies toward 155–156. Entry confirmed by Japan CPI beat or BoJ hawkish statement. Target 142.38 (monthly support with 1M MA). Hard stop at 160.3. R/R 2.51:1.
 
+## Full Report
+[JPY.pdf](https://github.com/user-attachments/files/27315315/JPY.pdf)
+
 
 # Macro Trading Research — Gold / XAU (April 2026)
 **Gold's Safe Haven Narrative is Broken — Interest Rates Now Dominate**
